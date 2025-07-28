@@ -1,4 +1,4 @@
-# Sophie Caldwell 💻
+# 💻 Sophie Caldwell
 
 > **Full Stack Developer** | _Building innovative web solutions with modern technologies_
 
